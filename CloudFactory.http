@@ -1,0 +1,6 @@
+@CloudFactory_HostAddress = http://localhost:5157
+
+GET {{CloudFactory_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
